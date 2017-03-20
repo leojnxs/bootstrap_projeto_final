@@ -1,2 +1,2 @@
 # bootstrap_projeto_final
-Projeto prático do curso de bootstrap feito através da plataforma devMedia
+Projeto prático do curso Bootstrap: Trabalhando com Design Responsivo feito através da plataforma devMedia
